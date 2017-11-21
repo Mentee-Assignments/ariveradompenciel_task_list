@@ -19,7 +19,7 @@
 - [ ] Read the [longitudinal analysis papers](https://www.zotero.org/freesurfer/items/itemKey/KSTK6BQQ) #1
 - [ ] Read the [longitudinal analysis papers](https://www.zotero.org/freesurfer/items/itemKey/ZIQ5CRTR) #2
 - [ ] Spend 20 minutes searching for structure-function relationships you may be interested in on pub-med/google scholar
-- [ ] Store the papers you found (or just the freesurfer papers) on some reference management software (I personally like [mendeley](https://www.mendeley.com/)
+- [ ] Store the papers you found (or just the freesurfer papers) on some reference management software (I personally like [mendeley](https://www.mendeley.com/))
 - [ ] Ask Rachel how to analyze the data
 
 
